@@ -10,7 +10,7 @@ class Program
     {
         Dictionary<string, string> aboutMe = new Dictionary<string, int>();
 
-        aboutMe.Add("Name", "sokq44");
+        aboutMe.Add("Name", "Michał");
         aboutMe.Add("Country", "Poland");
     }
 }
