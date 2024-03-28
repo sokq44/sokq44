@@ -8,7 +8,7 @@ class Program
 {
     static void Main()
     {
-        Dictionary<string, string> aboutMe = new Dictionary<string, int>();
+        Dictionary<string, string> aboutMe = new Dictionary<string, string>();
 
         aboutMe.Add("Name", "Michał");
         aboutMe.Add("Country", "Poland");
